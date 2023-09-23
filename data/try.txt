@@ -1,0 +1,804 @@
+Question: what is the leave procedure?
+Answer: You can go for leave by clinking on the link provided below and fill up the form and this form will be approved by SSO.
+Link for leave form : Leave Form (https://www.gcit.edu.bt/forms/)
+OR
+You can directly contact SSO
+
+
+
+Question:.can i get the contact number of girls sso of GCIT?
+Answer: As an AI  based chatbot I cannot provide you with the contact detail of SSO, you can approach either councilors or teachers to get the contact detail.
+
+
+
+Question: Can i get the contact number of SSO?
+Answer: As an AI based chatbot I cannot provide you with the contact detail of SSO, you can approach either councilors or teachers to get the contact detail.
+
+
+
+Question: what is Full Stack Development?
+Answer:"Full stack" refers to the entire spectrum of software development covering both the front-end (user interface) and the back-end (server, database, and application infrastructure). A full-stack developer is proficient in creating and managing the user-facing parts of an application, the underlying logic and operations, databases, and sometimes even server and deployment architecture. In essence, they're capable of building a software application from start to finish.
+
+
+
+Question: what is full stack?
+Answer:"Full stack" refers to the entire spectrum of software development covering both the front-end (user interface) and the back-end (server, database, and application infrastructure). A full-stack developer is proficient in creating and managing the user-facing parts of an application, the underlying logic and operations, databases, and sometimes even server and deployment architecture. In essence, they're capable of building a software application from start to finish.
+
+
+
+Question:What are the  modules learned in Full stack development specialization?
+Answer: module learned by all three specialisations of course Bachelor of Computer Science in first year first semester would be same, where first semester includes: Fundamental of Programming, Front End Web Development I, Fundamentals of Computing, Modern Database Design, & Dzong Communication & second semester includes; Back End Web Development, User Interaction Design, Mathematics for Programming I, Academic Skills, & Mini Project I
+In the second year, first semester Full stack student learns following 5  modules: Front End Web Development II, Applied Data Structures and algorithms, Agile Software Engineering Practice, Data Analytics and Visualization, and  Analytical & Critical Thinking.
+in Second year, second semester following 5  modules are learned by Full stack  students: Mobile Application and Development, Mathematic for Programming II, Artificial Intelligence and Machine Learning, and  Mini Project II.
+
+To view the  module in detail click on the following link: https://www.gcit.edu.bt/bachelor-of-computer-science-full-stack-development/
+
+
+
+Question:What modules are learned in 2nd year 1st sem by Full Stack
+Answer:In the 2nd year first sem Full stack students learns following  modules: 
+-	Front End Web Development II
+-	Applied Data Structures and Algorithms
+-	Agile Software Engineering Practice
+-	Data Analytics and Visualisation
+-	Analytical & Critical Thinking
+
+
+
+Question:What modules are learned in second year first semester by Full Stack?
+Answer:In the 2nd year first sem Full stack students learns following  modules: 
+-	Front End Web Development II
+-	Applied Data Structures and Algorithms
+-	Agile Software Engineering Practice
+-	Data Analytics and Visualisation
+-	Analytical & Critical Thinking
+
+
+
+Question: What are the  modules taught in the second semester of the second year in the Full stack specialization?
+Answer:Following are the  module taught in 2nd sem of 2nd year to Full stack students:
+-	Mobile Application Development
+-	Mathematics for Programming II
+-	Artificial Intelligence and Machine Learning
+-	Mini Project Project II
+
+
+
+Question: modules for Full stack students of 2nd year 2nd sem?
+Answer:Following are the  module taught in 2nd sem of 2nd year to Full stack students:
+-	Mobile Application Development
+-	Mathematics for Programming II
+-	Artificial Intelligence and Machine Learning
+-	Mini Project Project II
+
+
+
+Question:What are the Full Stack  specialization  modules taught in the first semester of the third year?
+Answer:Following are the  module taught to Full stack student in 1st sem of 3rd year:
+-	Devops and Automation for Development
+-	Mathematics for PRogramming III
+-	Design Thinking 
+-	Professional Certification I
+
+
+
+Question:What are the Full Stack specialization  modules taught in the 1st semester of 3rd year?
+Answer:Following are the  module taught to Full stack student in 1st sem of 3rd year:
+-	Devops and Automation for Development
+-	Mathematics for PRogramming III
+-	Design Thinking 
+-	Professional Certification I
+
+
+
+Question:Which  modules are part of the Full stack specialization curriculum in the 3rd year's 2nd semester?
+Answer:In third year, second semester following 3  modules would be learned by Full stack students: Programming for Enterprise System, Economics and Mini capstone Project.
+
+
+
+Question:Which  modules are part of the Full stack specialization curriculum in the third  year second semester?
+Answer:In third year, second semester following 3  modules would be learned by Full stack students: Programming for Enterprise System, Economics and Mini capstone Project.
+
+
+
+Question:what are the  module learned in Full stack specialization in 4th year 1st semester?
+Answer:Following are the  module learned by Full stack student in 4th year 1st semester:
+-	Introduction to Research
+-	Competitive Programming
+-	Ethics in COmputing & Interactive Design
+-	Advance English Skill for Career Development
+
+
+
+Question:What are the Full stack specialization  modules taught in the first semester of the fourth year?
+Answer:Following are the  module learned by Full stack student in 4th year 1st semester:
+-	Introduction to Research
+-	Competitive Programming
+-	Ethics in COmputing & Interactive Design
+-	Advance English Skill for Career Development
+
+
+
+Question: What are the detailed areas of study in the Full stack specialization during the first semester of the final year?
+Answer:Following are the  module learned by Full stack student in 4th year 1st semester:
+-	Introduction to Research
+-	Competitive Programming
+-	Ethics in COmputing & Interactive Design
+-	Advance English Skill for Career Development
+
+
+
+Question:What are the Full stack specialization  modules taught in the second semester of the fourth year?
+Answer: following two are the  module taught to Full stack student in 2nd sem of final year:
+-	Professional Certification II
+-	Industry Final Year Project - Major Capstone
+
+
+
+Question:Can you tell me about the  modules covered in the Full stack specialization during the second semester of the final year?
+Answer: following two are the  module taught to Full stack student in 2nd sem of final year:
+-	Professional Certification II
+-	Industry Final Year Project - Major Capstone
+
+
+
+Question:Which  modules are included in the Full stack specialization curriculum for the 2nd semester of the 4th year?
+Answer: following two are the  module taught to Full stack student in 2nd sem of final year:
+-	Professional Certification II
+-	Industry Final Year Project - Major Capstone
+
+
+
+Question:what is Interactive design and Development?
+Answer:Interactive Design and Development is a multidisciplinary field that focuses on creating user-friendly and engaging digital interfaces, applications, and experiences. It combines principles from design, technology, and user experience. Here's a deeper dive into the two main components:
+1. Interactive Design (often referred to as Interaction Design or IxD), which includes UI and UX
+2. Development, which includes Front-end Development, Back-end Development, Framework and Libraries and Responsive Design
+  When combined, Interactive Design and Development ensure that digital products are not only aesthetically pleasing but also functional, user-friendly, and efficient. It's about creating experiences that users find intuitive and engaging.
+
+
+
+Question:What are the  modules learned in Interactive Design and Development?
+Answer: They will learn the following  module in first year first sem:
+-	Fundamentals of Programming
+-	Modern Database Design & Development
+-	Digital Photography for UI/UX
+-	UI Principles: Visual Design Technology I
+-	Academic Skills 
+For detail information about the  module on semester basis click on the following link: https://www.gcit.edu.bt/new_course/ and scroll down till the bottom of the page
+
+
+
+Question: What are the  module learned in  Interactive Design and Development specialization in 1st year 1st semester?
+Answer:following are the   module learned by Interactive Design and Development student in 1st sem of 1st year:
+-	Fundamentals of Programming
+-	Modern Database Design & Development
+-	Digital Photography for UI/UX
+-	UI Principles: Visual Design Technology I
+-	Academic Skills 
+
+
+
+Question: Which subjects are focused on in the first year, first semester in  Interactive Design and Development specialization?
+Answer:following are the   module learned by Interactive Design and Development student in 1st sem of 1st year:
+-	Fundamentals of Programming
+-	Modern Database Design & Development
+-	Digital Photography for UI/UX
+-	UI Principles: Visual Design Technology I
+-	Academic Skills 
+
+
+
+Question:  Give me a breakdown of the  modules learned in the first year, first semester of the  Interactive Design and Development specialization.
+Answer:following are the   module learned by Interactive Design and Development student in 1st sem of 1st year:
+-	Fundamentals of Programming
+-	Modern Database Design & Development
+-	Digital Photography for UI/UX
+-	UI Principles: Visual Design Technology I
+-	Academic Skills 
+
+
+
+Question:What are the  module learned in  Interactive Design and Development specialization in 1st  year 2nd semester?
+Answer:following  module will be taught to Interactive Design and Development in 1st year 2nd sem:
+-	Web Design & Development I
+-	User Experience (UX) Technology Design I
+-	UI Principles: Visual Design Technology II
+-	Project Portfolio I: Designing for the Untamed
+-	Dzongkha Communication
+
+
+
+Question: What are the  module learned in  Interactive Design and Development specialization in first year second semester?
+Answer:following  module will be taught to Interactive Design and Development in 1st year 2nd sem:
+-	Web Design & Development I
+-	User Experience (UX) Technology Design I
+-	UI Principles: Visual Design Technology II
+-	Project Portfolio I: Designing for the Untamed
+-	Dzongkha Communication
+
+
+
+Question: What are the  module learned in  Interactive Design and Development specialization in 1st sem of year 2?
+Answer:In 2nd year first semester following  modules are learned by Interactive Design and Development student:
+-	User Experience (UX) Technology Design II
+-	Web Design & Development II
+-	Backend Application Development
+-	Influence of Videography in UI/IX
+-	Analytical & Critical Thinking
+
+
+
+Question: What are the  modules covered in the second year, first semester of the  Interactive Design and Development specialisation?
+Answer:In 2nd year first semester following  modules are learned by Interactive Design and Development student:
+-	User Experience (UX) Technology Design II
+-	Web Design & Development II
+-	Backend Application Development
+-	Influence of Videography in UI/IX
+-	Analytical & Critical Thinking
+
+
+
+Question: What are the subjects covered in the third year's first semester for the  Interactive Design and Development?
+Answer:following are the  module learned by Interactive Design and Development Specialization in 3rd year 1st sem:
+-	Mobile UI & UX Design & Development
+-	Ethics in Computing & Interactive Design
+-	Agile Practice for UI/UX Design
+-	Introduction to Research
+-	Elective II (Tech Makerspace or Secured Coding)
+
+
+
+Question: What are the subjects covered in the 3rd year's 1st semester for the  Interactive Design and Development specialization?
+Answer:following are the  module learned by Interactive Design and Development Specialization in 3rd year 1st sem:
+-	Mobile UI & UX Design & Development
+-	Ethics in Computing & Interactive Design
+-	Agile Practice for UI/UX Design
+-	Introduction to Research
+-	Elective II (Tech Makerspace or Secured Coding)
+
+
+
+Question: What are the  modules learned in  Interactive Design and Development specialization in third year second semester?
+Answer:Following are the modules learned by of Interactive Design and Development in 3rd year student 2nd sem:
+-	Information Design & Data Visualization
+-	Portfolio Design, Production & Presentation
+-	Midpoint Capstone Project: Designing & Coding the Unknown
+-	Advance English Skill for Career Development
+-	Elective III (Tech Venture and Acceleration/ Ethical Coding)
+
+
+
+Question:What  modules are learned by  Interactive Design and Development students in 2nd sem of 3rd year?
+Answer:Following are the modules learned by student of Interactive Design and Development in 3rd year 2nd sem:
+-	Information Design & Data Visualization
+-	Portfolio Design, Production & Presentation
+-	Midpoint Capstone Project: Designing & Coding the Unknown
+-	Advance English Skill for Career Development
+-	Elective III (Tech Venture and Acceleration/ Ethical Coding)
+
+
+
+Question:What are the modules learned in Interactive Design and Development specialization in fourth year first semester?
+Answer: In final year first semester Interactive Design and Development student will do Industry Final Year Project(Major Corporate Capstone)
+
+
+
+Question:What are the subjects covered in the Interactive Design and Development specialization during the 1st semester of the final year?
+Answer: In final year first semester Interactive Design and Development student will do Industry Final Year Project(Major Corporate Capstone)
+
+
+
+Question:What are the subjects covered in the Interactive Design and Development specialization during the 1st semester of the 4th year?
+Answer: In final year first semester Interactive Design and Development student will do Industry Final Year Project(Major Corporate Capstone)
+
+
+
+Question:what are the module learned by Interactive Design and Development students in the 2nd sem of 4th year?
+Answer: In final year second semester following module are learned by Interactive Design and Development: Professional Certification II and Industry Final Year Project-Major Capstone
+
+
+
+Question:what are the module learned by Interactive Design and Development students in 4th year 2nd sem?
+Answer: In final year second semester following module are learned by Interactive Design and Development: Professional Certification II and Industry Final Year Project-Major Capstone
+
+
+
+Question:what are the module learned by Interactive Design and Development students in the 2nd semester of final year?
+Answer: In final year second semester following module are learned by Interactive Design and Development: Professional Certification II and Industry Final Year Project-Major Capstone
+
+
+
+Question:where is the library located?
+Answer:The library at our college has evolved to meet the digital age, providing students and staff with access to an impressive array of e-resources. Currently, our primary library resource is the eLibrary, and here's what you need to know:
+eLibrary: We've partnered with O'Reilly, an outstanding online library service. It offers an extensive collection of e-books, videos, and learning materials, especially focused on technology and business-related topics. Whether you're a student or staff member, this resource is a goldmine for staying updated on the latest trends and knowledge in your field.
+
+
+
+Question:Who is the President of College?
+Answer:Madam Audrey Low is the President of GCIT, She leads our institution with dedication and vision. And she is the one who oversees all the work of college.
+
+
+
+Question:What is the total population in the college?
+Answer: GCIT has about 400+ students (as recruitment of students on an yearly basis is 104),  70 staffs and 10 administrators
+
+
+
+Question:how is student welfare taken care of ?
+Answer:Gyalpozhing College of Information Technology takes student welfare seriously and provides various services to support the overall well-being of its students. Here are some ways in which student welfare is taken care of:
+✔Student Counselling: The college offers a student counselling service aimed at addressing personal, academic, and emotional issues that may affect students' well-being and academic performance..
+✔Residential Facilities: The college provides comfortable residential facilities for both male and female students. This ensures a safe and convenient living environment for students .There is an electric fence to protect students from wild animals and to prevent outsiders from entering campus without permission.
+✔Sports and Recreational Activities: Gyalpozhing College of Information Technology recognizes the importance of physical and recreational activities for student well-being. The campus boasts excellent sports facilities, including a standard size football field, basketball courts, volleyball court, table tennis, and chess boards.
+✔Student Services: The college's Student Services department focuses on students' welfare by providing a range of services and resources to support personal, social, and academic development. This includes promoting student health and well-being, facilitating access to financial aid, and creating opportunities for extracurricular and community engagement activities. Co-curricular activities such as sports, cultural events, and clubs provide students with opportunities for personal and social development outside of the academic curriculum.
+
+
+
+Question:what is the mission of the college?
+Answer: The mission of GCIT is “to empower the tech generation of learners with cutting-edge skills and knowledge in modern software technology and interactive design, and equip our students with expertise, practical skills, and values necessary to become contributor and leader in the technology and design industry”
+
+
+
+Question:what is the vission  of the college?
+Answer: The vision of GCIT is “to be a leading institution in software technology and interactive design that produces future ready graduates with commitment to academic excellence, innovation, and social responsibility”
+
+
+
+
+Question:how many foreign faculties are there in college? 
+Answer: As of now, or when i am being trained there are 13 foreign faculty, but it is going to change as the time passes by. So in order to get accurate information you may approach one of the lecturers or administrator of the college.
+
+
+
+Question:how is the climatic condition/altitude of college?
+Answer: I apologise as an AI based chatbot, I don't have real-time information or the ability to browse the internet. Therefore, I don't have specific details about the climatic condition of Gyalpozhing College of Information Technology, however to  know about the climatic condition and altitude of college go to the google map by clicking on the link given below and type Gyalpozhing College of Information Technology.
+Link of map google map
+
+
+
+Question:can you give me the contact information of the office of GCIT. 
+Answer: Following are the contact detail to contact GCITs office:
+         Tel No: 02-361196/02-361195
+         Email: info.gcit@rub.edu.bt / ict.gcit@rub.edu.bt
+
+
+
+
+Question: how many lecturers are there in total?
+Answer:There are 38 teaching staffs in GCIT
+
+
+
+Question: Who all are the lecturer of college?
+Answer:To know the details about the lecturers you can go towards the end of the home page (first page) of the college website, there you will see the heading “Faculty”, there you can find the name of lecturers, their little description and the model that they teach.
+
+
+
+Question:how can I get ICT service?
+Answer:To get the ICT service you need to fill up the ICT form by clicking on the link provided below.
+ The link for ICT Help Desk: ICT 
+
+
+
+Question:Whom shall I contact to fix the computer/ pc?
+Answer:You can contact the ICT officer or apply online to get the ICT service. To apply online fill up the ICT form by clicking on the link provided below.
+ The link for ICT Help Desk: ICT 
+
+
+
+Question:My door is broken. Who shall I contact to fix it?
+Answer:This type of issue is being handled by the estate management team of College. You can reach out to them by filling the form of Estate Help Disk.
+
+To get this form you can either directly go to the footer (bottom ) of the college website and click on E-Services and click on Estate Help Disk
+
+
+
+Question:There is water leakage in the toilet of N-block, whom shall I contact to fix it?
+Answer:This type of issue is being handled by the estate management team of College. You can reach out to them by filling the form of Estate Help Disk.
+
+To get this form you can either directly go to the footer (bottom ) of the college website and click on E-Services and click on Estate Help Disk
+
+
+
+Question:There is no electricity in one of the rooms in the hostel, who shall be in contact to fix it?
+Answer:This type of issue is being handled by the estate management team of College. You can reach out to them by filling the form of Estate Help Disk.
+
+To get this form you can either directly go to the footer (bottom ) of the college website and click on E-Services and click on Estate Help Disk
+
+
+
+Question:. How and where can I access the result?
+Answer:The result system of our college is digitalized. You can view your personal result of the college by registering into IMs. link for IMS: https://ims.rub.edu.bt/public/auth/view-login
+
+
+
+Question:How can I apply for the class tip?
+Answer:To apply for the class trip you need to contact the student service officer and the department at least a week before.
+
+
+
+Question:What's the source for acquiring the Monday assembly agenda?
+Answer:The agenda of the assembly would be circulated by the host by Sunday evening thought mail in your rub mail.
+
+And if you have any agenda to be contributed to monday assembly, you can fill up the form by clicking on the following link, if it is approved then it would be included in agenda: Link
+
+
+
+Question:Who is the head of the Finance depeartment?
+Answer:Mr. Lee Chee Yong is the head of the Finance department of GCIT
+
+
+
+Question: Who all are the members of the Finance department?
+Answer:Mr. Bishal Limbu, Mr. Nima Gyeltshen, Mr. Dorji Phuntsho and Mr. Lee Chee Yong are member of the finance department of GCIT.
+
+
+
+Question:What is the role of the finance department?
+Answer:Finance Department is responsible for the effective financial and budget Management of the college.
+
+The department provides support and guidance in the following key activities:
+-	Delivery of management reporting for the effective college activities
+-	Statutory financial and fiscal reporting
+-	Stewardship over the college’s financial resources to maintain and manage strategic growth.
+-	Process daily transactions related to income, expenditure, capital projects and financing.
+
+
+
+
+Question:who is head of  HRO?
+Answer:Mrs.Jacyline Ong is the head of the HRO (Human Resource Office) of GCIT
+
+
+
+Question:Who holds the position of the head within the Human Resource Office (HRO)?
+Answer:Mrs.Jacyline Ong is the head of the HRO (Human Resource Office) of GCIT
+ 
+
+
+Question:Who all are Human Resource officers?
+Answer:Mrs.Jacyline Ong is the head of HRO, followed by following members: Mr.Tshering Haap(Manager), Mrs.Jigme Dema (HR Assistant), Mr.Sonam Lhundup (Administrative support), Mrs.Karma Yangchen (Store Support Assistant), Jigme Dorji(Driver), Kizang Chophel(Diver) and Mrs.Dupthok Zangmo (Non-Acad IT support)
+
+
+
+Question:What is the role of HRO?
+Answer:The main functions of Human Resource Officers or Human Resource and Administration department is to process the employee data and assist in the hiring porcess.
+
+The responsibilities includes:
+-	Interpreting and applying HR policies and procedures.
+-	Administering department protocols and best practices, in compliance with Royal University of Bhutan
+-	Facilitating discussion and processing of staffs individual work plan
+-	Supporting g and administering performance review
+-	Organising major college functions and events
+-	Planning and provisioning logistics arrangement for VIP visits
+
+
+
+Question: When is the enrollment date?
+Answer: As an AI-based trained chatbot, I cannot provide you with the updated information since this information is going to change with time. However, you can find the enrollment date by visiting the GCIT website at https://www.gcit.edu.bt/ and checking the news under the Announcement section.
+OR 
+Click on the search bar which is located on the top right corner, and type news.
+
+
+Question:How can I get admitted to the college and what are the minimum requirements? Answer: You need to have passed class 12 with at least 50% in Mathematics/Business Mathematics, and your ability rating will be based on these subjects: Mathematics/Business Mathematics -5, English -2 and three other subjects -1. This applies to both Bachelor of Computer Science and Bachelor of Interactive Design and Development courses. Additionally, you have to complete three steps: general application, creative thinking test and interview.
+
+
+Question:What courses are available for students?
+Answer: In the first year, students can choose between Bachelor of Computer Science and Bachelor of Interactive Design and Development. From the second year onwards, Computer Science students can select one of the following courses: AI Development and Data Science, Block chain Development, or Full Stack Development. Interactive Design and Development students will continue in the same course.
+
+
+Question:what are the co-curricular activities done in GCIT?
+Answer:GCIT has many co-curricular activities including games and sports where a minimum of six games activities will be organised for boys and girls, which include football, basketball and volleyball and some indoor games as well. And there will be many unofficial friendly activities organised by students. There will be many club activities as well, where we have very interesting and knowledgeable clubs, which include G-Tech, Integrity, Literary and interactive art, Media Marketing and Design(MMD), Rovers, Start-up and Tarayana where each club has interesting, interactive and knowledgeable activities.
+
+
+Question:What kind of co-curricular activities are available at GCIT?
+Answer:GCIT offers a wide range of co-curricular activities, including games and sports such as football, basketball, and volleyball and some indoor game as well. There are also many unofficial friendly activities organised by students, as well as various club activities such as G-Tech, Integrity, Literary and Interactive Art, Media Marketing and Design (MMD), Rovers, Start-up, and Tarayana.
+
+
+Question:What clubs are available for students to join at GCIT?
+Answer: GCIT offers a variety of clubs for students to join, including G-Tech, Integrity, Literary and Interactive Art, Media Marketing and Design (MMD), Rovers, Start-up, and Tarayana.
+
+
+Question:What is the enrollment process for GCIT? 
+Answer:The enrollment process for GCIT includes several steps. First, students must register using their class 12 result. Based on their marks, they will be shortlisted for the Computational Thinking Test (CTT). The results of the CTT will determine if they are shortlisted for an interview. Finally, the top 104 students based on their interview results will be selected.
+
+
+Question: what is AI?
+Answer:AI stands for "Artificial Intelligence." Artificial Intelligence refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, reasoning, problem-solving, and decision-making. In the field of medicine, AI is being used to assist in various aspects of healthcare, including diagnosis, treatment planning, and patient monitoring. While AI has the potential to revolutionise healthcare, its specific applications in the context of ligaments may include analysing medical images, predicting injury risks, and optimising rehabilitation protocol. 
+For example: 
+Virtual Assistants: Virtual assistants like Siri, Alexa, and Google Assistant use AI to understand and respond to voice commands, perform tasks, and provide information.
+Autonomous Vehicles: Self-driving cars rely on AI technologies such as computer vision, machine learning, and sensor fusion to navigate roads, detect obstacles, and make driving decisions.
+ Image and Object Recognition: AI algorithms can analyse and interpret images, enabling applications like facial recognition, object detection, and medical image analysis.
+Robotics: AI is used in robotics to enable machines to perform tasks autonomously, such as industrial automation, surgical robots, and household robots.
+
+
+Question:What are the module learned in AI specialization?
+Answer:module learned by all three specializations of course Bachelor of Computer Science in first year first semester would be same, where first semester includes: Fundamental of Programming, Front End Web Development I, Fundamentals of Computing, Modern Database Design, & Dzong Communication & second semester includes; Back End Web Development, User Interaction Design, Mathematics for Programming I, Academic Skills, & Mini Project I
+in second year, first semester AI learns following 5 modules: Applied Data Structures and algorithms, Data Analytics and Visualization, Mathematics for Programming II, Analytical & Critical Thinking, Agile Software Engineering Practice. 
+in Second year, second semester following 5 modules are learned by AI students: Artificial Intelligence and Machine Learning, Mathematics for Programming III, Economics, Mini project II.
+in third year first semester following 5 modules would be learned in AI: Deep Learning, DevOps and Automation for Development, Design Thinking for Innovation, Professional Certification I.
+In third year, second semester following 3 modules would be learned in AI: Advance Deep Learning, Introduction to Research, Mini Capstone Project
+In final year first semester following 4 modules would be learned in AI: Natural Language Processing, Big Data, Ethics in Computing, Professional Certification II.
+&
+In final year second semester following 2 module would be learned in AI: Advance English Skills for Carrer Development and Industry Final year project -Major Capstone.
+
+
+Question:What are the courses that Computer Science students learn in their first year?
+Answer: In their first year, Computer Science students learn a variety of specific courses. In the first semester, these include Fundamentals of Programming, Front End Web Development I, Fundamentals of Computing, Modern Database Design, and Dzong Communication. In the second semester, they learn Back End Web Development, User Interaction Design, Mathematics for Programming I, Academic Skills, and Mini Project I. Please note that while the total number of courses for the specialization is likely to remain the same, the timing of when they are taught may vary based on external factors.
+
+Question:Can you list the subjects taught in the first semester of the first year for Computer Science students?
+Answer:The subjects taught in the first semester of the first year for Computer Science students are Fundamental of Programming, Front End Web Development I, Fundamentals of Computing, Modern Database Design, and Dzong Communication.
+Question:What are the main subjects included in the first semester of the first year for Computer Science students?
+Answer:During the first semester of their first year, Computer Science students learn subjects such as Fundamental of Programming, Front End Web Development I, Fundamentals of Computing, Modern Database Design, and Dzongkha Communication.
+
+
+Question:What are the modules taught to Computer Science students in the second semester of their first year?
+Answer:the second semester of the first year, the curriculum covered subjects like Back End Web Development, User Interaction Design, Mathematics for Programming I, Academic Skills, and Mini Project I.
+
+
+Question: Can you list the modules covered in the AI specialisation during the second year's first semester?
+Answer: In the first semester of the second year, you will cover the following modules: Applied Data Structures and Algorithms, Data Analytics and Visualization, Mathematics for Programming II, Analytical & Critical Thinking, and Agile Software Engineering Practice.
+
+
+Question: What are the modules taught in the second semester of the second year in the AI specialization?
+Answer:In the second semester of the second year in the AI specialization, the following modules are taught: Artificial Intelligence and Machine Learning, Mathematics for Programming III, Economics, and Mini project II.
+
+
+Question:What are the AI specialization modules taught in the first semester of the third year?
+Answer:In the first semester of the third year,Ai specialist students learn the following modules: Deep Learning, DevOps and Automation for Development, Design Thinking for Innovation, and Professional Certification I.
+
+
+Question: what are the module learned in AI specialization in third year second semester?
+Answer:In third year, second semester following 3 modules would be learned: Advance Deep Learning, Introduction to Research, Mini Capstone Project
+
+
+Question:what are the module learned in AI specialization in fourth year first semester?
+Answer:In final year first semester following 4 modules would be learned: Natural Language Processing, Big Data, Ethics in Computing, Professional Certification II.
+
+
+Question:what are the module learned in AI specialization in final year 1st semester?
+Answer:In final year first semester following 4 modules would be learned: Natural Language Processing, Big Data, Ethics in Computing, Professional Certification II.
+
+
+Question:what are the modules learned by AI students in 2nd sem 4th year?
+Answer: The AI specialization modules in the second semester of the fourth year include Advance English Skills for Career Development and Industry Final Year Project - Major Capstone.
+
+
+Question:Can you provide details about the modules taught in the AI specialization in the second semester of the final year?
+Answer: The modules taught in the AI specialization during the second semester of the fourth year are Advance English Skills for Career Development and Industry Final Year Project - Major Capstone.
+
+
+Question:what is Block chain?
+Answer: Blockchain is a decentralised and distributed digital ledger that records transactions across multiple computers or nodes. It is designed to be transparent, secure, and tamper-resistant. Each transaction, or "block," is linked to the previous one, forming a chain of blocks, hence the name "blockchain."
+In ligament terms, blockchain technology may not have a direct application. However, in the broader field of healthcare, blockchain has the potential to enhance data security, interoperability, and privacy. For example, blockchain can be used to securely store and share medical records, ensuring that patient data remains confidential and tamper-proof. It can also facilitate the secure exchange of medical research data, enable supply chain tracking of medical devices, and streamline insurance claims processing.
+While blockchain technology is not specifically related to ligaments, it has the potential to revolutionise various aspects of healthcare by providing a secure and transparent platform for data management and collaboration.
+
+
+
+Question: What are the modules learned in the Blockchain specialization?
+Answer:In the Bachelor of Computer Science program, the modules learned in the Blockchain specialization vary across different semesters. Here is a breakdown of the modules learned in each semester:
+First Year, First Semester:
+1. Fundamental of Programming
+2. Front End Web Development I
+3. Fundamentals of Computing
+4. Modern Database Design
+5. Dzong Communication
+
+First Year, Second Semester:
+1. Back End Web Development
+2. User Interaction Design
+3. Mathematics for Programming I
+4. Academic Skills
+5. Mini Project I
+
+Second Year, First Semester (Blockchain Specialization):
+1. Front End Web Development II
+2. Economics
+3. Introduction to Blockchain Technology
+4. Agile Software Engineering Practice
+
+Second Year, Second Semester (Blockchain Specialization):
+1. Programming for Blockchain I
+2. Developing Decentralized Apps
+3. Mathematics for Programming II
+4. Analytical & Critical Thinking
+5. Mini Project II
+
+Third Year, First Semester (Blockchain Specialization):
+1. Programming for Blockchain II
+2. Applied Data Structures and Algorithms
+3. Mathematics for Programming III
+4. Design Thinking for Innovation
+
+Third Year, Second Semester (Blockchain Specialization):
+1. Programming for Blockchain for Blockchain Enterprise System
+2. Professional Certification I
+3. Mini Capstone Project
+
+Final Year, First Semester (Blockchain Specialization):
+1. Introduction to Research
+2. Competitive Programming
+3. Ethics in Computing
+4. Interactive Design
+5. Advanced English Skills for Career Development
+
+Final Year, Second Semester (Blockchain Specialization):
+1. Professional Certification II
+2. Industry Final Year Project - Major Capstone
+
+These modules provide a comprehensive understanding of blockchain technology, programming, web development, mathematics, and other relevant skills needed in the field of blockchain.
+
+
+Question: What are the modules learned in Block chain specialization in second year first semester?
+Answer: In second year second semester you learn the following 5 modules in Block chain:   
+              1.Fundamental of Programming
+2. Front End Web Development I
+3. Fundamentals of Computing
+4. Modern Database Design
+5. Dzongkha Communication
+
+
+Question: What are the modules learned in Block chain specialization in second year second semester?
+Answer:In second year second semester you learn the following 5 modules in Block chain: Programming for Blockchain I, Developing Decentralize app, Mathematics for Programming II, Analytical & Critical Thinking, and Mini Project II.
+
+
+Question: What are the specific modules studied in the third year's first semester for the Blockchain ?
+Answer:In the third year first sem, the following modules are learned by Block chain: Programming for Blockchain II, Applied Data Structure and Algorithms, Mathematics for Programming III and Design Thinking for Innovation.
+
+
+Question:Can you provide a list of the modules taught in the blockchain specialization in the second semester of the third year?
+Answer:In the second semester of the third year, students in the Block Chain specialization learn following modules, such as Programming for Blockchain within the Blockchain Enterprise System, Professional Certification I, and a Mini Capstone Project
+
+
+Question:What are the module learned in Block chain specialization in fourth year first semester?
+Answer: In the final year first semester following module are learned by Block chain: Introduction to Research, Competitive Programming, Ethics in Computing & Interactive Design and Advanced English Skill for Carrer Development.
+
+
+Question: What are the modules learned in Block chain specialization in the final year second semester?
+Answer: In final year second semester following module are learned by Block chain: Professional Certification II and Industry Final Year Project-Major Capstone
+
+Question:Can you provide information about the modules learned in the Blockchain specialization during the second semester of the fourth year?
+Answer:In the fourth year second semester of the Block chain specialization, the following modules are learned: Professional Certification II and Industry Final Year Project-Major Capstone.
+
+
+Question:what are the eservies?
+Answer: E-services in GCIT includes :
+i. ICT Help Desk:provides the help related to ICT department, such as rebooting of Pc and etc..
+ii.Estate Help:provides help based on the estates of the colleges
+iii. LIbrary Catalog(OPAC): provides platform for e_library such as orally
+iv.Virtual Learning Environment -is the platform for the student and teacher to upload and access the teaching learning material.(it is like a storehouse to store textbooks )
+v. Staff Residence Application Form- from where staffs can apply for the residence by providing the required information in form
+
+
+Question:Could you please provide me with the contact information for the college president?
+Answer: As an AI module, I cannot provide personal contact details. However, you can reach the college president at the following telephone numbers: 02-361196 or 02-361195. Alternatively, you can contact them via email at ict.gcit@rub.edu.bt or info.gcit@rub.edu.bt.
+
+
+Question: Can you help me with the contact information for the Director of the college?
+Answer: Unfortunately, as an AI module, I cannot provide personal contact details. However, you can reach the college Director at the following telephone numbers: 02-361196 or 02-361195. Alternatively, you can contact them via email at ict.gcit@rub.edu.bt or info.gcit@rub.edu.bt.
+
+
+Question: Could you please provide me with the contact details of the Executive Director of the college?
+Answer: Sorry, as an AI module, I cannot provide personal contact details. However, you can reach the college Executive Director at the following telephone numbers: 02-361196 or 02-361195. Alternatively, you can contact them via email at ict.gcit@rub.edu.bt or info.gcit@rub.edu.bt.
+Question:what is the vacancy in GICT?
+Answer: to know about the vacancy available in gcit, here are the step by step approach:
+ i.hover on Announcement section on navbar
+ii.then click on Vacancy
+
+here you will find the update to date information about the vacancy, if any queries you can contact on the following office Teli-contact : 02-361196/02-361195 or office email: info.gcit@rub.edu.bt
+
+
+Question: Are there any job vacancies available at GICT?
+Answer: To find out about the current job vacancies at GCIT, follow these steps:
+   a. Hover over the Announcement section on the navigation bar.
+   b. Click on the Vacancy option.
+0R 
+Click on the search bar and type vacancy.
+
+
+Question:What are the facilities provided in college?
+Answer:GCIT has a well equiped facility inside the college campus. The facilities includes:
+✔ free and strong wifi service within the campus so that student can explore and learn without any network fail,
+ ✔ good resident for both staffs and students (there are three toilet and bathroom in each apartment with gizer where student can enjoy the bathing and washing with hot water)
+✔ good fooding facility (fooding is served from mess only so that student don't have to waste their precious time in cooking)
+✔  We have a playground for every sport(football, basketball, volleyball), GCIT even has indoor game facilities such as table tennis, cheese and badminton so that students can enjoy and get refreshed in their free time.
+✔ GCIT provides fully-equipped computer labs with projectors, furniture, computer, and internet connection.
+
+ 
+
+
+Question: Facilities at GCIT?
+Answer:GCIT has a well equiped facility inside the college campus. The facilities includes, 
+✔ free and strong wifi service within the campus so that student can explore and learn without any network fail,
+ ✔ good resident for both staffs and students (there are three toilet and bathroom in each apartment with gizer where student can enjoy the bathing and washing with hot water)
+✔ good fooding facility (fooding is served from mess only so that student don't have to waste their precious time in cooking)
+✔  We have a playground for every sport(football, basketball, volleyball), GCIT even has indoor game facilities such as table tennis, cheese and badminton so that students can enjoy and get refreshed in their free time.
+✔ GCIT provides fully-equipped computer labs with projectors, furniture, computer, and internet connection.
+
+
+Question:Who all are the members of the ICT department?
+Answer:Lim KIm Hoe is the head of the ICT department followed by the following officers: Pema Yangchen, Dorji Wangchuk and Tshering Yangzom.
+
+5.what are the responsibilities of the ICT department?
+Answer:Responsibilities of ICT department includes development, Sourcing, implementation and maintenance of :
+✔ Network connectivities (WAN and LAN)
+ ✔ Infrastructure components of server, storage and backup
+ ✔  Computer Labas System and wireless access for classrooms.
+ ✔ ️CyberSecurity of campus network and system.
+ &
+ICT also ensures the availability and reliability of key applications that support our college daily functions. such as:
+ ✔  VLE
+ ✔  Management of Library catalogue online access system (KOHA)
+ ✔ Administration and customisation of RUB Information Management System (IMS)    for effective teaching, assessments and database
+ ✔ Maintenance of college website.
+
+
+Question:Who is the head of the ICT department?
+Answer:Mr.Lim Kim Hoe is serving as the head of ICT department of GCIT.
+
+
+Question:Who is the head of Student affairs?
+Answer:Mrs. Jacyline Ong is the head of Student affair of Gyalpozhing College of Information Technology
+
+
+
+Question: Who all are the members of student affairs?
+Answer:Madam Sangay Lhamo (student service Officer of Girls), Mr. Tshering Dorji (Student Service Officer of Boys), Pema Wangchuk (Librarian) and Mrs.karam Samten Zangmo (Librarian) followed by lead Mrs. Jacyline Ong(the lead) are the members of student affaris.
+
+Question: Describe the responsibilities of the Student Service?
+Answer: key responsibilities of student service includes:
+   ✔ Organizing orientation and graduation process for all students.
+
+  ✔ Ensuring students adhering to College’s student code of conduct.
+ ✔ Managing hostel allocation and ensuring hostel facility cleanliness for all students.
+ ✔ Providing student welfare, sports and recreational services.
+
+
+Question: What is the responsibility of SSO?
+Answer: key responsibilities of student service includes:
+   ✔ Organizing orientation and graduation process for all students.
+
+  ✔ Ensuring students adhering to College’s student code of conduct.
+ ✔ Managing hostel allocation and ensuring hostel facility cleanliness for all students.
+ ✔ Providing student welfare, sports and recreational services.
+
+
+Question:Who is the SSO of boys?
+Answer:Mr. Tshering Dorji is the SSO of boys
+
+
+Question:Who is the SSO of girls?
+Answer:Madam Sangay Lhamo is the SSO of girls
+
+
+
+Question:what are the events?
+Answer: to view the events based on the latest updates you can go to GCIT website and click on the search bar which is located on the top left, and write Events and press enter. here you will get the detailed information about events.
+OR 
+hover to the Announcement navbar and click on Events
+
+
+Question:what are the latest news
+Answer: As an AI based chatbot i cannot directly provide you with the news, but then  to view the news based on the latest updates  you can go to GCIT website and click on the search bar which is located on the top left, and write news and press enter. here you will get the detailed information about news.
+ OR
+hover to the Announcement navbar and click on news.
+
+
+Question:what are the tenders?
+Answer: As an AI based chatbot I cannot provide you with the latest information of tender, however to view the events based on the latest updates, you can go to the GCIT website and click on the search bar, which is located on the top left, and type tender and press enter. Here you will get detailed information about events.
+OR
+hover over the Announcement navbar and click on Tender
+
+
+Question:What are the vacencies?
+Answer: As a AI based chatbot i cannot provide you the information about job vacancy since this are the things that is going to change over the time, however to view the vacancy based on the latest updates, you can go to the GCIT website, click on the search bar, which is located on the top left, and type vacancy and press enter. Here you will get detailed information about events.
+OR
+hover over the Announcement navbar and click on vacancy
+
+
+Question:how can I give feedback?
+Answer:If the feedback is generic or something related to the website, click on Contact Us in the navigation bar and write your feedback there. If it is related to student services such as estate maintenance, you can go to the button or footer of our website, click on E-Services, and select the "Estate Help Desk" form.
+Or if it is related to particular teacher or administrator you may have to contact him/her personally
+
+Question:Who developed the chatbot of GCIT?
+Answer:The chatbot on the GCIT website was developed by two individuals named Asseh Nepal and Sagar Lapcha as a student project.
+
