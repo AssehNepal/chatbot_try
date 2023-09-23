@@ -21,11 +21,6 @@ Answer:"Full stack" refers to the entire spectrum of software development coveri
 
 
 
-Question: what is full stack?
-Answer:"Full stack" refers to the entire spectrum of software development covering both the front-end (user interface) and the back-end (server, database, and application infrastructure). A full-stack developer is proficient in creating and managing the user-facing parts of an application, the underlying logic and operations, databases, and sometimes even server and deployment architecture. In essence, they're capable of building a software application from start to finish.
-
-
-
 Question:What are the  modules learned in Full stack development specialization?
 Answer: module learned by all three specialisations of course Bachelor of Computer Science in first year first semester would be same, where first semester includes: Fundamental of Programming, Front End Web Development I, Fundamentals of Computing, Modern Database Design, & Dzong Communication & second semester includes; Back End Web Development, User Interaction Design, Mathematics for Programming I, Academic Skills, & Mini Project I
 In the second year, first semester Full stack student learns following 5  modules: Front End Web Development II, Applied Data Structures and algorithms, Agile Software Engineering Practice, Data Analytics and Visualization, and  Analytical & Critical Thinking.
@@ -97,7 +92,7 @@ Answer:In third year, second semester following 3  modules would be learned by F
 
 
 Question:Which  modules are part of the Full stack specialization curriculum in the third  year second semester?
-Answer:In third year, second semester following 3  modules would be learned by Full stack students: Programming for Enterprise System, Economics and Mini capstone Project.
+Answer:In third year, 2nd semester following 3  modules would be learned by Full stack students: Programming for Enterprise System, Economics and Mini capstone Project.
 
 
 
@@ -111,7 +106,7 @@ Answer:Following are the  module learned by Full stack student in 4th year 1st s
 
 
 Question:What are the Full stack specialization  modules taught in the first semester of the fourth year?
-Answer:Following are the  module learned by Full stack student in 4th year 1st semester:
+Answer:Following are the  module learned by Full stack student in 1st semester of 4th year:
 -	Introduction to Research
 -	Competitive Programming
 -	Ethics in COmputing & Interactive Design
@@ -169,33 +164,12 @@ For detail information about the  module on semester basis click on the followin
 
 
 Question: What are the  module learned in  Interactive Design and Development specialization in 1st year 1st semester?
-Answer:following are the   module learned by Interactive Design and Development student in 1st sem of 1st year:
+Answer:Following are the module learned by Interactive Design and Development student in 1st sem of 1st year:
 -	Fundamentals of Programming
 -	Modern Database Design & Development
 -	Digital Photography for UI/UX
 -	UI Principles: Visual Design Technology I
 -	Academic Skills 
-
-
-
-Question: Which subjects are focused on in the first year, first semester in  Interactive Design and Development specialization?
-Answer:following are the   module learned by Interactive Design and Development student in 1st sem of 1st year:
--	Fundamentals of Programming
--	Modern Database Design & Development
--	Digital Photography for UI/UX
--	UI Principles: Visual Design Technology I
--	Academic Skills 
-
-
-
-Question:  Give me a breakdown of the  modules learned in the first year, first semester of the  Interactive Design and Development specialization.
-Answer:following are the   module learned by Interactive Design and Development student in 1st sem of 1st year:
--	Fundamentals of Programming
--	Modern Database Design & Development
--	Digital Photography for UI/UX
--	UI Principles: Visual Design Technology I
--	Academic Skills 
-
 
 
 Question:What are the  module learned in  Interactive Design and Development specialization in 1st  year 2nd semester?
@@ -205,7 +179,6 @@ Answer:following  module will be taught to Interactive Design and Development in
 -	UI Principles: Visual Design Technology II
 -	Project Portfolio I: Designing for the Untamed
 -	Dzongkha Communication
-
 
 
 Question: What are the  module learned in  Interactive Design and Development specialization in first year second semester?
@@ -225,17 +198,6 @@ Answer:In 2nd year first semester following  modules are learned by Interactive 
 -	Backend Application Development
 -	Influence of Videography in UI/IX
 -	Analytical & Critical Thinking
-
-
-
-Question: What are the  modules covered in the second year, first semester of the  Interactive Design and Development specialisation?
-Answer:In 2nd year first semester following  modules are learned by Interactive Design and Development student:
--	User Experience (UX) Technology Design II
--	Web Design & Development II
--	Backend Application Development
--	Influence of Videography in UI/IX
--	Analytical & Critical Thinking
-
 
 
 Question: What are the subjects covered in the third year's first semester for the  Interactive Design and Development?
@@ -298,11 +260,6 @@ Answer: In final year second semester following module are learned by Interactiv
 
 
 
-Question:what are the module learned by Interactive Design and Development students in 4th year 2nd sem?
-Answer: In final year second semester following module are learned by Interactive Design and Development: Professional Certification II and Industry Final Year Project-Major Capstone
-
-
-
 Question:what are the module learned by Interactive Design and Development students in the 2nd semester of final year?
 Answer: In final year second semester following module are learned by Interactive Design and Development: Professional Certification II and Industry Final Year Project-Major Capstone
 
@@ -326,10 +283,10 @@ Answer: GCIT has about 400+ students (as recruitment of students on an yearly ba
 
 Question:how is student welfare taken care of ?
 Answer:Gyalpozhing College of Information Technology takes student welfare seriously and provides various services to support the overall well-being of its students. Here are some ways in which student welfare is taken care of:
-✔Student Counselling: The college offers a student counselling service aimed at addressing personal, academic, and emotional issues that may affect students' well-being and academic performance..
-✔Residential Facilities: The college provides comfortable residential facilities for both male and female students. This ensures a safe and convenient living environment for students .There is an electric fence to protect students from wild animals and to prevent outsiders from entering campus without permission.
-✔Sports and Recreational Activities: Gyalpozhing College of Information Technology recognizes the importance of physical and recreational activities for student well-being. The campus boasts excellent sports facilities, including a standard size football field, basketball courts, volleyball court, table tennis, and chess boards.
-✔Student Services: The college's Student Services department focuses on students' welfare by providing a range of services and resources to support personal, social, and academic development. This includes promoting student health and well-being, facilitating access to financial aid, and creating opportunities for extracurricular and community engagement activities. Co-curricular activities such as sports, cultural events, and clubs provide students with opportunities for personal and social development outside of the academic curriculum.
+  ✔Student Counselling: The college offers a student counselling service aimed at addressing personal, academic, and emotional issues that may affect students' well-being and academic performance..
+  ✔Residential Facilities: The college provides comfortable residential facilities for both male and female students. This ensures a safe and convenient living environment for students .There is an electric fence to protect students from wild animals and to prevent outsiders from entering campus without permission.
+  ✔Sports and Recreational Activities: Gyalpozhing College of Information Technology recognizes the importance of physical and recreational activities for student well-being. The campus boasts excellent sports facilities, including a standard size football field, basketball courts, volleyball court, table tennis, and chess boards.
+  ✔Student Services: The college's Student Services department focuses on students' welfare by providing a range of services and resources to support personal, social, and academic development. This includes promoting student health and well-being, facilitating access to financial aid, and creating opportunities for extracurricular and community engagement activities. Co-curricular activities such as sports, cultural events, and clubs provide students with opportunities for personal and social development outside of the academic curriculum.
 
 
 
@@ -522,13 +479,17 @@ In final year first semester following 4 modules would be learned in AI: Natural
 In final year second semester following 2 module would be learned in AI: Advance English Skills for Carrer Development and Industry Final year project -Major Capstone.
 
 
+
 Question:What are the courses that Computer Science students learn in their first year?
 Answer: In their first year, Computer Science students learn a variety of specific courses. In the first semester, these include Fundamentals of Programming, Front End Web Development I, Fundamentals of Computing, Modern Database Design, and Dzong Communication. In the second semester, they learn Back End Web Development, User Interaction Design, Mathematics for Programming I, Academic Skills, and Mini Project I. Please note that while the total number of courses for the specialization is likely to remain the same, the timing of when they are taught may vary based on external factors.
+
+
 
 Question:Can you list the subjects taught in the first semester of the first year for Computer Science students?
 Answer:The subjects taught in the first semester of the first year for Computer Science students are Fundamental of Programming, Front End Web Development I, Fundamentals of Computing, Modern Database Design, and Dzong Communication.
 Question:What are the main subjects included in the first semester of the first year for Computer Science students?
 Answer:During the first semester of their first year, Computer Science students learn subjects such as Fundamental of Programming, Front End Web Development I, Fundamentals of Computing, Modern Database Design, and Dzongkha Communication.
+
 
 
 Question:What are the modules taught to Computer Science students in the second semester of their first year?
@@ -537,6 +498,7 @@ Answer:the second semester of the first year, the curriculum covered subjects li
 
 Question: Can you list the modules covered in the AI specialisation during the second year's first semester?
 Answer: In the first semester of the second year, you will cover the following modules: Applied Data Structures and Algorithms, Data Analytics and Visualization, Mathematics for Programming II, Analytical & Critical Thinking, and Agile Software Engineering Practice.
+
 
 
 Question: What are the modules taught in the second semester of the second year in the AI specialization?
