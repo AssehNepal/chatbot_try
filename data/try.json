@@ -1,0 +1,41 @@
+{
+  "intents": [
+    {
+      "tag": "leave_procedure",
+      "patterns": ["what is the leave procedure?"],
+      "responses": [
+        "You can go for leave by clinking on the link provided below and fill up the form and this form will be approved by SSO.",
+        "Link for leave form: Leave Form (https://www.gcit.edu.bt/forms/)",
+        "You can directly contact SSO."
+      ]
+    },
+    {
+      "tag": "contact_girls_sso",
+      "patterns": ["can i get the contact number of girls sso of GCIT?"],
+      "responses": [
+        "As an AI based chatbot I cannot provide you with the contact detail of SSO, you can approach either councilors or teachers to get the contact detail."
+      ]
+    },
+    {
+      "tag": "contact_sso",
+      "patterns": ["Can i get the contact number of SSO?"],
+      "responses": [
+        "As an AI based chatbot I cannot provide you with the contact detail of SSO, you can approach either councilors or teachers to get the contact detail."
+      ]
+    },
+    {
+      "tag": "Full stack Defination",
+      "patterns": ["what is Full Stack Development?","what is full stack"],
+      "responses": [
+        "Full stack refers to the entire spectrum of software development covering both the front-end (user interface) and the back-end (server, database, and application infrastructure). A full-stack developer is proficient in creating and managing the user-facing parts of an application, the underlying logic and operations, databases, and sometimes even server and deployment architecture. In essence, they're capable of building a software application from start to finish."
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": ["Hi, Hello"],
+      "responses": [
+       "hello, how have you been"
+      ]
+    }
+  ]
+}
